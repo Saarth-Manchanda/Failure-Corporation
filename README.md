@@ -7,4 +7,4 @@ Nothing much to see here.
 
 
 
-# https://failurecorp.netlify.app/#about
+
